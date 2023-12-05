@@ -1,4 +1,9 @@
-[![#Vespa](https://vespa.ai/assets/vespa-logo-color.png)](https://vespa.ai)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://vespa.ai/assets/vespa-ai-logo-heather.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://vespa.ai/assets/vespa-ai-logo-rock.svg">
+  <img alt="#Vespa" width="200" src="https://vespa.ai/assets/vespa-ai-logo-rock.svg" style="margin-bottom: 25px;">
+</picture>
+<br/><br/>
 
 [Vespa.ai](https://vespa.ai/) - the open big data serving engine.
 Vespa.ai is used to make AI-driven decisions using big data, in real time, at any scale, with unbeatable performance.
