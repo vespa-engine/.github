@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://docs.vespa.ai/assets/logos/vespa-logo-full-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://docs.vespa.ai/assets/logos/vespa-logo-full-black.svg">
-  <img alt="Vespa" width="200" src="https://docs.vespa.ai/assets/logos/vespa-logo-full-black.svg" style="margin-bottom: 25px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://docs.vespa.ai/assets/logos/Vespa-logo-white-rgb.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://docs.vespa.ai/assets/logos/Vespa-logo-dark-rgb.svg">
+  <img alt="Vespa" width="200" src="https://docs.vespa.ai/assets/logos/Vespa-logo-dark-rgb.svg" style="margin-bottom: 25px;">
 </picture>
 <br/><br/>
 
